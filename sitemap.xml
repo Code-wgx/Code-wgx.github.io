@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.cpple.tk/%E6%B5%8B%E8%AF%95%E6%92%AD%E6%94%BE%E6%8F%92%E4%BB%B6.html</loc>
+    
+    <lastmod>2022-04-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.cpple.tk/%E9%83%A8%E7%BD%B2%E5%8D%9A%E5%AE%A2.html</loc>
     
     <lastmod>2022-04-11</lastmod>
@@ -57,6 +66,13 @@
   
   <url>
     <loc>https://blog.cpple.tk/tags/blog/</loc>
+    <lastmod>2022-04-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.cpple.tk/tags/test/</loc>
     <lastmod>2022-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
